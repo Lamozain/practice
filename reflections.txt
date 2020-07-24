@@ -26,6 +26,35 @@ Recall: git init for initializing repositories
 15. committing because it is a logical change.
 16. The branching to easy mode here makes it easy to create another 
 unpopular version of our game.
-1
+17. git branch easy_mode creates the branch easy_mode
+18. git checkout easy_mode moves into the branch easy_mode
+19. After working on multiple branches, they can be merged but conflict may arise.
+20. You can use yUML and gliffy for diagramming
+21. git log -n 1 for seeing merges after merging.
+	git config --global credential.helper wincred to cache pass word for 
+	pushing to git
+Lesson 3
+22. Created github empty repository with same name
+23. cd into the same name repository on my computer
+24. git remote
+25. copy the given git remote from the github and run it in git bash
+26. run git remote -v to check
+27. push master branch from the origin using
+	git push origin master
+28. Checked the site to see the reflection
+29. Love the process and therefore deleted my earlier webpage to repush it.
+30. Learnt how to use github to create file and make commits.
+31. forked a recipe repository of Larry on github and clone it to my local 
+computer.
+32. I did not add collaborators but I could have using github GUI and the collaborators'
+github username.
+33. Now I fully understand that forking is necessary when I do not have permission
+ to change the owners' repository. I can fork and then clone and my changes will 
+only appear on the fork.
+34. Resolved a simulated merge conflict through fetch and merge. Though
+	git pull origin master can show the problem to be manually resolved.
+35. Created my first pull request after learning about why they may be necessary 
+on new branches with a collaboratoe before merging to the master branch.
+36. The adventure project was tackled.
 
 
